@@ -30,7 +30,7 @@ ES6标准入门（第二版）|夏浩耘|1|9787121276576
 Spring实战（第四版）|夏浩耘|1|9787115417305
 TensorFlow实战|夏浩耘|1|9787121309120
 
-## [@xiahaoyun](github.com/xiahaoyun)
+## [@xiahaoyun](https://github.com/xiahaoyun)
 
 书名 | 位置 |ISBN|备注|归还日期
 -------- |  ---- |--|--|--
